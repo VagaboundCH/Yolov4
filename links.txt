@@ -1,0 +1,5 @@
+https://github.com/eriklindernoren/PyTorch-YOLOv3/blob/master/models.py
+https://www.youtube.com/watch?v=lTBFIwSGxrY&list=PLbMqOoYQ3MxxArhAqvki_WoWBTCc8fDHG&index=2
+https://github.com/AyushExel/Detectx-Yolo-V3/blob/master/DNModel.py
+https://github.com/miki998/YoloV4_PyTorch/blob/42e79a183145076025d3995f9e611b525f30e1f6/models.py#L456
+https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch/blob/master/darknet.py
